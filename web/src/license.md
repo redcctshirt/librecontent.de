@@ -16,6 +16,10 @@
 * [Subgame Moontest](https://forum.minetest.net/viewtopic.php?f=9&t=5305), [Git](https://github.com/Amaz1/moontest), [Lizenz](https://github.com/Amaz1/moontest/blob/master/README.md)
 * [Subgame Legend of Minetest](https://forum.minetest.net/viewtopic.php?f=15&t=14051), [Git](https://github.com/D00Med/LegendofMinetest/), [License](https://github.com/D00Med/LegendofMinetest/blob/master/README.txt)
 
+### Embetty Server
+
+* [embetty server](https://github.com/heiseonline/embetty-server), Lizenz: [The MIT License (MIT)](https://github.com/heiseonline/embetty-server/blob/develop/LICENSE), [contributors](https://github.com/heiseonline/embetty-server/graphs/contributors)
+
 ### Webseite
 
 * [mdbook](https://github.com/rust-lang-nursery/mdBook), Lizenz: [Mozilla Public License v2.0](https://github.com/rust-lang-nursery/mdBook/blob/master/LICENSE), [contributors](https://github.com/rust-lang-nursery/mdBook/graphs/contributors)
