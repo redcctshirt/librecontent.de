@@ -1,0 +1,6 @@
+[book]
+title = "LibreContent"
+authors = "info@datenpaul.de"
+description = "LibreContent.de"
+multilingual = false
+src = "src"
