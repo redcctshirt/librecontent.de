@@ -1,4 +1,4 @@
-# LibreContent
+# Herzlich Willkommen bei LibreContent.de
 
-* [Minetest](./minetest.md)
-* [Proxy](./proxy.md)
+* [Minetest - Server](./minetest.md)
+* [Proxy - Embetty Server](./proxy.md)
