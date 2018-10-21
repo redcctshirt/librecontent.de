@@ -1,6 +1,6 @@
-## Willkommen beim Minetest-Server Metis
-
 **[Spenden (Paypal)](https://paypal.me/openscreencast)**
+
+## Willkommen beim Minetest-Server Metis
 
 | Name                       | Domain          | Port  | Game               | Flags       | License-Info |
 |----------------------------|-----------------|-------|--------------------|-------------|--------------|
